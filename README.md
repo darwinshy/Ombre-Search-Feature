@@ -10,6 +10,7 @@ data to show.
 - Publish an APK and share. Upload code to github.
 - Make a short screen recording video of your implementation.
 - Sample Screenshots
+
 ![WhatsApp Image 2021-04-16 at 8 55 14 PM](https://user-images.githubusercontent.com/23384886/115047434-2122bc00-9ef6-11eb-8f50-0456f69b8f0f.jpeg)
 ![WhatsApp Image 2021-04-16 at 8 55 14 PM(1)](https://user-images.githubusercontent.com/23384886/115047501-30a20500-9ef6-11eb-916e-2c5933e9745c.jpeg)
 ![WhatsApp Image 2021-04-16 at 8 55 14 PM(2)](https://user-images.githubusercontent.com/23384886/115047507-31d33200-9ef6-11eb-9fbb-0414c1f6b609.jpeg)
