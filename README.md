@@ -1,16 +1,12 @@
-# ombre
+# Ombre
 
-A new Flutter project.
+Problem statement
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Make a one page flutter app which implements search functionality as in Ombre app. Only
+implement the search functionality for the ombre app which allows users to search for an event
+or user within a list and returns the result. Store the data for events in firebase tables and pull
+data to show.
+- UI should be similar to the ombre app search page.
+- Publish an APK and share. Upload code to github.
+- Make a short screen recording video of your implementation.
+- Sample Screenshots
